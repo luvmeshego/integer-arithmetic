@@ -1,5 +1,6 @@
 a = int(input())
 b = int(input())
 c = a
-d = b
-print(d, c)
+a = b
+b = c
+print(a, b)
